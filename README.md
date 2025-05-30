@@ -12,7 +12,7 @@ The architecture is divided into three primary layers:
 
 This setup ensures modularity, scalability, and fault tolerance.
 
-## Architecture Diagram
+## Architecture Diagrams
 
 ## Overview Diagram
 
