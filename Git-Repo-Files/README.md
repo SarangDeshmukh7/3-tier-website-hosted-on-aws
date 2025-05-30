@@ -20,6 +20,8 @@ This setup ensures modularity, scalability, and fault tolerance.
 
 ## Enviroment Diagram
 
+![image](https://github.com/user-attachments/assets/9e2b0318-2835-4b31-ad81-faa766635ec5)
+
 
 ## CI/CD Pipeline Architecture
 
