@@ -2,7 +2,7 @@
 
 This repository demonstrates the deployment of a scalable, secure, and highly available 3-tier web application architecture on **Amazon Web Services (AWS)** using **Terraform**.
 
-This project was developed solely for learning Terraform and gaining hands-on experience with AWS infrastructure. All components are provisioned using Infrastructure as Code (IaC) principles, demonstrating how to manage cloud infrastructure efficiently and reproducibly using Terraform.
+I developed this project solely for learning Terraform and gaining hands-on experience with AWS infrastructure. All components are provisioned using Infrastructure as Code (IaC) principles, demonstrating how to manage cloud infrastructure efficiently and reproducibly using Terraform.
 
 ## Project Overview
 
