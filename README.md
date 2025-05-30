@@ -24,7 +24,7 @@ This setup ensures modularity, scalability, and fault tolerance.
 
 ![image](https://github.com/user-attachments/assets/89b51fbe-d7d3-481b-82cb-70f7b34aa3c9)
 
-## Final product on web browser 
+## Final product on web browser (Due to AWS cost considerations, the website is currently not live.)
 
 ![image](https://github.com/user-attachments/assets/6684de84-b7cb-4d6e-9d4d-d709a8695a6d)
 
