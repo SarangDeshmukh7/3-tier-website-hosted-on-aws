@@ -18,7 +18,7 @@ This setup ensures modularity, scalability, and fault tolerance.
 
 ## Overview Diagram
 
-![image](https://github.com/user-attachments/assets/6b585fc7-e006-48eb-ae82-ddfff664ce7c)
+![image](https://github.com/user-attachments/assets/4d82de55-75b1-47a9-8549-03368940f7a7)
 
 ## Enviroment Diagram
 
